@@ -1,0 +1,11 @@
+.container{
+    margin: 0 auto;
+    width: 300px;
+}
+
+#usersTable{
+    margin: 20px;
+}
+th{
+    outline: 2px solid gray;
+}
